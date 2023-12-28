@@ -6,5 +6,7 @@
 ![image](https://github.com/Coen90/mysql_install/assets/81370558/c786bd09-ae5c-49ed-84b3-4d599dcb3998)
 ![image](https://github.com/Coen90/mysql_install/assets/81370558/8e5c5338-cd48-42cf-ad4a-b8a1c6c39d31)
 
+> mysql 설치시에 port 지정하는 부분이 있는데 default인 3306으로 지정
+
 # dbeaver
 [https://dbeaver.io/download/](https://dbeaver.io/download/)
